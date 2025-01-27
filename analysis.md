@@ -2,7 +2,7 @@ Since this dataset is artificial, any insight gained from here could be a false 
 
 There are 511 males and 462 females.
 
-By analyzing the correlation_Matrix.png, you can distinguish that several attributes are correlated. For example:
+By analyzing the correlation_Matrix.png, you can distinguish that several attributes are correlated (>abs(0.2) means correlation). For example:
 
 Age, as expected, seems to have no distinguishable correlation with any other variable.
 
